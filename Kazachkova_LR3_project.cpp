@@ -11,7 +11,8 @@ int IntSumm(float x, float y, float z)
 
 float FractionalPart(float x, float y, float z)
 {
-
+    float w = sqrt(x * y * z);
+    cout << w;
 }
 
 struct MenuItem
