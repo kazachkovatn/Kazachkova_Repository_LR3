@@ -5,7 +5,8 @@ using namespace std;
 
 int IntSumm(float x, float y, float z)
 {
-    
+    int w = x + y + z;
+    cout << w;
 }
 
 float FractionalPart(float x, float y, float z)
